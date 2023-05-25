@@ -1,3 +1,2 @@
 # html-counter
-
-hello
+// for CSS i used bootstrap
