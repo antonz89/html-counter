@@ -1,0 +1,58 @@
+
+.col{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.one-third{
+  background-color:rgb(225, 88, 88);
+}
+
+.zogo{
+  background-color: blanchedalmond;
+  width:250px
+}
+
+.menu{
+  background-color: blanchedalmond;
+  width:250px
+}
+
+.two-third{
+  background-color:hsl(200, 98%, 83%);
+  min-height: 200px;
+}
+.three-third{
+  background-color:hsl(85, 100%, 88%);
+  min-height: 200px;
+}
+
+.a{
+  background-color: rgb(0, 255, 102);
+  margin-top: 70px;
+  width:250px
+}
+.b{
+  background-color: rgb(0, 255, 102);
+  margin-top: 35px;
+  width:250px
+}
+.c{
+  background-color: rgb(0, 255, 102);
+  margin-top: 70px;
+  width:250px
+}
+
+.number{
+  background-color: aliceblue;
+  height: 100px;
+  text-align: center; 
+  display: flex;
+  justify-content: center;
+  align-items: center; 
+}
+
+.image{
+  width:150px;
+  height: 150px
+}
